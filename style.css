@@ -88,7 +88,7 @@ video {
   #msg {
     color: #ffffc7;
     font-size: 5vmin;
-    font-family: 'Courier New', Courier, monospace;
+    font-family:'Times New Roman', Times, serif;
     font-weight: bolder;
     
   }
@@ -105,4 +105,5 @@ video {
   .hide {
     display: none;
   }
+
   
